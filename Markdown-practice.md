@@ -1,23 +1,36 @@
--# Heading 1 (largest)
-## Heading 2My learning goals
-### Heading 3 This semester
-#### Heading 4
+Heading
+## My learning goals
+###  IYF season 10
+Text formating
 **want to know more about programming**
 *reaseach about data science*
 ~~strikethrough~~
 `git and github`
-[Link text](https://example.com)
-![Alt text](https://url-to-image.com/image.png)Item one
+Link
+[Link text](https://github/lykerjulie-cyber.com)
+![github.com](https://url-to-image.com/image.png)
+List
+Unordered list
+- Item one
 - Item two
-  - Nested item
-- Item three- Item one
-- Item two
-  - Nested item
-- Item three 
+- Item three
+Ordered list
 1. First step
 2. Second step
-3. Third ste
+3. Third step
+code blocks
 ```python
 print("Hello, world!")
 ```
 Tables
+| Name    | Role      | Status   |
+|---------|-----------|----------|
+| Alice   | Developer | Active   |
+| Bob     | Designer  | Active   |
+| Charlie | Tester    | On leave |
+Tasklist checkboxes
+- [x] Completed task
+- [ ] Incomplete task
+- [ ] Another task to do
+ Horizontal rule
+---
