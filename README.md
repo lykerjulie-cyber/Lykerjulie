@@ -1,8 +1,5 @@
-ìI am Juliet adhiambo,kenyan by nationality and a God fearing lady.
+# Hi, I'm juliet Adhiambo,kenyan by nationality and a God fearing lady.
 Am well organised,disciplened and determined student.
-Focused in my career path and looking forward into exploring more inorder to acquire more knowledge and skills .
- 
-# Hi, I'm juliet Adhiambo
 
 ## About Me
 - I'm currently learning computer programming at we can Academy program
@@ -11,7 +8,7 @@ Focused in my career path and looking forward into exploring more inorder to acq
 
 
 ## Skills I'm Building
-- Git and GitHub
+- Focused in my career path and looking forward into exploring more inorder to acquire more knowledge and skills .Git and GitHub
 - "javascript", "Python", "HTML/CSS", "Machine Learning"
 
 ## Current Projects
